@@ -61,7 +61,7 @@ function enterInfo() {
           break;
 
         case "View Employees":
-          setTimeout(viewEmployees(),500);
+          viewEmployees();
           break;
 
         case "View Roles":
